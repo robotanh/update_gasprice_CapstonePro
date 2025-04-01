@@ -1,0 +1,5 @@
+[
+  { "type": "RON 95", "price": 24850, "unit": "VND/L" },
+  { "type": "E5 RON 92", "price": 23500, "unit": "VND/L" },
+  { "type": "Diesel", "price": 20300, "unit": "VND/L" }
+]
