@@ -1,5 +1,7 @@
 [
-  { "type": "RON 95", "price": 24850, "unit": "VND/L" },
-  { "type": "E5 RON 92", "price": 23500, "unit": "VND/L" },
-  { "type": "Diesel", "price": 20300, "unit": "VND/L" }
+  { "type": "RON 95-III", "price": 20.420, "unit": "VND/L" },
+  { "type": "E5 RON 92-II", "price": 20.030, "unit": "VND/L" },
+  { "type": "DO 0,05S-II", "price": 18.210, "unit": "VND/L" },
+  { "type": "DO 0,001S-V", "price": 18.650, "unit": "VND/L" },
+  { "type": "KO", "price": 18.520, "unit": "VND/L" },
 ]
